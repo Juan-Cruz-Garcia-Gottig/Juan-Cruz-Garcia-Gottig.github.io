@@ -1,8 +1,12 @@
 p {
-    color: red;
+    color: violet;
     width: 300px;
 }
 h1 {
     color: grey;
     font-weight: bold;
+}
+
+body {
+    background-color: aqua;
 }

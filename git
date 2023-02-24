@@ -2,6 +2,8 @@ git init
  git config user.name "nombre"
  git config user.email "mail"
     Importante para saber quien es el que modifica los archivos
-git status para ver los "commit"(confirmaciones) de los cambios realizados en los documentos
+git status para ver los "commit"(confirmaciones) de los cambios realizados en los documentos, si no están agregados los muestra en rojo porque no fueron agregados aún
 git add . para añadir los cambios a agregar, el . es un "comodin" para agregar todo
 git commit -m "Mensaje de lo que referencie la modificación"
+git log Muestra los datos de la persona que realizó los cambios
+git blame nombrearchivo muestra los cambios que se realizaron y en qué momento dentro de la terminal
