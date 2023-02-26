@@ -1,6 +1,8 @@
 p {
     color: violet;
     width: 300px;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h1 {
     color: grey;
