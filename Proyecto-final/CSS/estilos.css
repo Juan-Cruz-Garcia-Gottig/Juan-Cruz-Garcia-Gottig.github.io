@@ -1,0 +1,10 @@
+body {
+    background-color:beige;
+}
+h1 {
+    font-family: 'Rampart One', cursive;
+    font-style: italic;
+    font-size: 5vw;
+    text-align: center;    
+    color:navy;
+}

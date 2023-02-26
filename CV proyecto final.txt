@@ -1,0 +1,25 @@
+CV proyecto
+
+imagen: C:\Users\Juan\Desktop\Arg Programa\foto.jpg
+nombre: Juan Cruz
+apellido: Garcia Gottig
+fecha de nacimiento: 4/1/1994 29 años
+domicilio: Av Donato Alvarez 283, Ciudad de Buenos Aires
+teléfono: 1169753872
+email: juancruzgarciag@gmail.com
+
+presentacion: Mi nombre es Juan Cruz y este es mi CV en el cual reflejo mis
+datos parsonales, conocimientos y experiencias laborales. Soy una persona
+proactiva con ganas de seguir aprendiendo en el rubro de la programación
+y todo lo que eso conlleva. Trabajo bien en equipo y soy dedicado cuando se
+me encomienda hacer una tarea.
+experiencias laborales: -Cadetería y armado de calendarios Colores Digitales
+- Empleado de farmacia Farmacia Ibarrola
+
+aprendizajes: -Ingles intermedio
+-Secundario completo Instituto Monseñor Dillon
+-Curso de Guardavidas en GCBA
+-Curso de base de datos
+-Curso Argentina Programa
+
+

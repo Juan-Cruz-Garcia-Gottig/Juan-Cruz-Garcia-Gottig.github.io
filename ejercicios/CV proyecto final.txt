@@ -1,0 +1,8 @@
+CV proyecto
+
+nombre: Juan Cruz
+apellido: Garcia Gottig
+fecha de nacimiento: 4/1/1994
+domicilio: Av Donato Alvarez 283
+teléfono: 1169753872
+email: juancruzgarciag@gmail.com
