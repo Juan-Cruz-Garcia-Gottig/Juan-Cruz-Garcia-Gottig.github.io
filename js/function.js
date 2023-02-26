@@ -30,3 +30,8 @@ document.getElementById("boton_color").addEventListener("click", function () {
 document.getElementById("boton_default").addEventListener("click", function () {
     document.body.style.backgroundColor = "aqua";
 })
+
+const collection = document.getElementsByClassName("prueba");
+for (let i = 0; i < collection.length; i++) {
+    collection[i].style.backgroundColor = "green";
+}
