@@ -8,3 +8,12 @@ h1 {
     text-align: center;    
     color:navy;
 }
+div {
+    float: left;
+    font-size: xx-large;
+    font-family: 'Quicksand', sans-serif, bold;
+}
+img{
+    width: auto;
+    height: auto;
+}

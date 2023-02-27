@@ -1,8 +1,7 @@
 CV proyecto
 
 imagen: C:\Users\Juan\Desktop\Arg Programa\foto.jpg
-nombre: Juan Cruz
-apellido: Garcia Gottig
+nombre y apellido: Juan Cruz Garcia Gottig
 fecha de nacimiento: 4/1/1994 29 años
 domicilio: Av Donato Alvarez 283, Ciudad de Buenos Aires
 teléfono: 1169753872
