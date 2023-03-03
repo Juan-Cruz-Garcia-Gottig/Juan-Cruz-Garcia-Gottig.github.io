@@ -8,12 +8,47 @@ h1 {
     text-align: center;    
     color:navy;
 }
-div {
-    float: left;
-    font-size: xx-large;
-    font-family: 'Quicksand', sans-serif, bold;
-}
-img{
+img {
     width: auto;
     height: auto;
+}
+ul {
+    list-style-type: square;
+}
+li {
+    padding: 0px;
+    margin-bottom: 2px;
+    background-color: lightblue;
+    font-size: xx-large;
+    font-family: 'Quicksand', sans-serif, bold;
+    border: 2px;
+    border-style: double;
+    border-color:orange;
+}
+li:hover {
+    background-color: #0099cc;
+    font-size: xx-large;
+    font-family: 'Quicksand', sans-serif, bold;
+    border: 2px;
+    border-style: double;
+    border-color:purple;
+}
+.lista {
+    width: 20%;
+    float: left;
+}
+.datos {
+    width: 60%;
+    float: left;
+    padding-left: 25px;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font-style: italic;
+}
+dd {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font-style: italic;   
 }

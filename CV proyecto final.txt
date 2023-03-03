@@ -20,5 +20,3 @@ aprendizajes: -Ingles intermedio
 -Curso de Guardavidas en GCBA
 -Curso de base de datos
 -Curso Argentina Programa
-
-
