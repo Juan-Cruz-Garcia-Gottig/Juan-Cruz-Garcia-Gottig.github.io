@@ -1,7 +1,10 @@
+* {
+    box-sizing: border-box;
+}
 body {
     background-color:beige;
 }
-h1 {
+header {
     font-family: 'Rampart One', cursive;
     font-style: italic;
     font-size: 5vw;
@@ -34,13 +37,12 @@ li:hover {
     border-color:purple;
 }
 .lista {
-    width: 20%;
     float: left;
 }
 .datos {
-    width: 60%;
+    width: 75%;
     float: left;
-    padding-left: 25px;
+    padding: 10px;
 }
 p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
